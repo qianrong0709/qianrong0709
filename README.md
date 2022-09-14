@@ -27,7 +27,7 @@
 
 ### My Github  
 
-![Rong's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianrong0709&show_icons=true&theme=tokyonight)
+![qianrong0709's GitHub stats](https://github-readme-stats.vercel.app/api?username=qianrong0709&show_icons=true&theme=tokyonight)
 
 ![Visitor Count](https://profile-counter.glitch.me/qianrong0709/count.svg)
 
