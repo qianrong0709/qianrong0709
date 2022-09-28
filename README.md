@@ -18,7 +18,7 @@
 - ❓ Ask me about Deep Learning and Drug Design.  
   
 
-- 📧 How to reach me: qianrong0709@126.com  
+- 📧 How to reach me: qianrong0709@126.com / qianrong0709@hkbu.edu.hk
   
 
 - 💼 Currently working in ChangSha 🇨🇳 and HongKong🇭🇰.  
