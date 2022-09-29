@@ -20,7 +20,7 @@
 - 📧 How to reach me: qianrong0709@126.com / qianrong0709@hkbu.edu.hk
   
 
-- 💼 Currently working in ChangSha 🇨🇳 and HongKong🇭🇰.  
+- 💼 Currently working in ChangSha 🇨🇳 and Hong Kong🇭🇰.  
   
 
 
