@@ -1,14 +1,13 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 60%" />
-</div>  
-  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Qian+Rong)](https://git.io/typing-svg)
+<!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
-### <div align="center">I'm Rong, a full-time Research Assistant at Hong Kong Baptist University 👨‍💻 </div>  
-  
-
+ 
 
 
 ### I'm Qian Rong  
+- 👨‍💻 I'm a full-time Research Assistant at Hong Kong Baptist University.
+
+
 - 🔭 I’m currently working on applications of deep learning for moculelar generation and optimization.  
   
 
