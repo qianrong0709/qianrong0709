@@ -1,10 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Qian+Rong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Rong+Qian)](https://git.io/typing-svg)
 <!-- https://readme-typing-svg.herokuapp.com/demo/ -->
 
  
 
 
-### I'm Qian Rong  
+### I'm Rong  
 - 👨‍💻 I'm a full-time Research Assistant at Hong Kong Baptist University.
 
 
