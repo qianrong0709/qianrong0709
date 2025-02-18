@@ -5,7 +5,7 @@
 
 
 ### I'm Rong  
-- 👨‍💻 I'm a full-time Research Assistant at Hong Kong Baptist University.
+- 👨‍💻 I'm a PhD Student at Hong Kong Baptist University.
 
 
 - 🔭 I’m currently working on applications of deep learning for moculelar generation and optimization.  
@@ -17,10 +17,10 @@
 - ❓ Ask me about Deep Learning and Drug Design.  
   
 
-- 📧 How to reach me: qianrong0709@126.com / qianrong0709@hkbu.edu.hk
+- 📧 How to reach me: qianrong0709@gmail.com / 24483877@life.hkbu.edu.hk
   
 
-- 💼 Currently working in ChangSha 🇨🇳 and Hong Kong🇭🇰.  
+- 💼 Currently working in Hong Kong🇭🇰 and ChangSha 🇨🇳.  
   
 
 
